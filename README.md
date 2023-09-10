@@ -3,9 +3,9 @@ En hæklet girafpingvin: Hækleopskrift på verdens sødeste kælebamse 🇩🇰
 
 ---
 
-# Crocheted Giraffe-Penguin 🦒🐧
+# 🇺🇸 Crocheted Giraffe-Penguin 🦒🐧
 
-Welcome to the ultimate repository for creating the world's cutest stuffed animal - a hybrid of a Giraffe and a Penguin! Here you will find all the details you need to create this adorable creature, as well as the website that hosts the crochet pattern built with Astro 🧑🏻‍🚀
+Welcome to the ultimate repository for creating the world's cutest stuffed animal - a hybrid of a 🦒 Giraffe and a 🐧 Penguin! Here you will find all the details you need to create this adorable creature, as well as the website that hosts the crochet pattern built with Astro 🧑🏻‍🚀
 
 🇩🇰 This website and crochet pattern is currently **only** available in Danish. 
 I'm working on a english translation, stay tuned and star this repo to get updates ⭐
@@ -19,6 +19,26 @@ Interested in helping me translate this to other languages, [plese DM me 💖](h
 - List of Required Materials 📋
 - Step-by-step Tutorials 📚
 - FAQs and Troubleshooting Tips 🛠️
+
+---
+
+# 🇩🇰 Hæklet Giraf-Pingvin 🦒🐧
+
+Velkommen til det ultimative GitHub Repo. til at skabe verdens sødeste plysdyr - en hybrid mellem en 🦒 Giraf og en 🐧 Pingvin! Her finder du alle de detaljer, du skal bruge for at lave denne nuttede skabning ❤️ samt websitet der hoster hækleopskriften bygget med Astro 🧑🏻‍🚀.
+
+🇩🇰 Dette website og hækleopskrift er p.t. **kun** tilgængelige på dansk. 
+Interesseret i at hjælpe mig med at oversætte til andre sprog? [Send mig en DM 💖](https://x.com/danielbahl/)
+
+## 🌟 Funktioner
+
+- Omfattende Hækleopskrift 🧶
+- Liste over Nødvendige Materialer 📋
+- Trin-for-trin Vejledninger 📚
+- Ofte stillede spørgsmål og fejlfindingstips 🛠️
+
+---
+
+Feel free to make adjustments as needed. I hope this helps! 🎉
   
 ## 🛠 Installation & Setup
 

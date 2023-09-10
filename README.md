@@ -65,5 +65,3 @@ This project is [MIT](LICENSE) licensed.
 - Shoutout to all the crochet enthusiasts out there! 🧶
 
 ---
-
-Feel free to add more sections or details based on what you think would be most helpful to users of your repository. Happy coding! 🎉
